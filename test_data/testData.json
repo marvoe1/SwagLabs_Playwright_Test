@@ -1,0 +1,16 @@
+
+{
+  "valid_user": {
+    "username": "standard_user",
+    "password": "secret_sauce",
+
+    "firstName": "John",
+    "lastName": "Mike",
+    "postalCode": "12345"
+
+  },
+  "invalid_user": {
+    "username": "invalid_user",
+    "password": "invalid_password"
+  }
+}
